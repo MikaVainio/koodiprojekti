@@ -1,7 +1,8 @@
 # koodiprojekti
 Esimerkkiprojekti, johon kuuluu Wiki-sivut ja projektisuunnitelma
 
-## Alaotsikko
+## Projektisuunnittelu
+Github tarjoaa ketterän suunnittelun työkalut
 
 ### Kolmostason otsikko
 
