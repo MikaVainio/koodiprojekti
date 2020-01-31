@@ -1,0 +1,11 @@
+.kontti {
+    color: #272727;
+}
+
+.valikko {
+    color: skyblue;
+}
+
+.valikko.teksti {
+    color: snow;
+}
